@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1679999601 source:c:\users\bmdma\onedrive\desktop\poli an 1\poli an 1 2\(pa)\pa_lab5_pb1_stive\pa_lab5_pb1.c
+	"stive.h"
+
+1679998944 source:c:\users\bmdma\onedrive\desktop\poli an 1\poli an 1 2\(pa)\pa_lab5_pb1_stive\stive.c
+	"stive.h"
+
+1679998823 c:\users\bmdma\onedrive\desktop\poli an 1\poli an 1 2\(pa)\pa_lab5_pb1_stive\stive.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
